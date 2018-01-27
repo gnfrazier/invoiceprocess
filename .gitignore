@@ -1,6 +1,6 @@
 # Input and Output Files
-inbox/
-archive/
+# inbox/
+# archive/
 *.pdf
 *.csv
 *.xls
